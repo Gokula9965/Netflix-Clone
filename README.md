@@ -9,8 +9,7 @@ Netflix is a streaming service that allows members to watch TV shows and movies 
 In the project directory, you can run:
 
 ### FUNCTIONALITIES FOR IMPLEMENTATION
-• The trending movie APIs are taken from The Movie Database, a community-built
-movie and TV database.
+• The trending movie APIs are taken from The Movie Database, a community-built movie and TV database.
 • Firebase is a set of hosting services for any application used for creating and storing
 web projects that act as the database but the data are stored in the cloud and certain
 users can be disabled from authentication.
