@@ -47,5 +47,8 @@ Netflix is a streaming service that allows members to watch TV shows and movies 
 
 ![Screenshot (180)](https://user-images.githubusercontent.com/86424600/208286393-11025dc2-4238-45a2-89b8-e823b4f125c7.png)
 
+![Screenshot (181)](https://user-images.githubusercontent.com/86424600/208286470-a302b51f-309c-4167-b4bc-5490cbfc5668.png)
 
+![Screenshot (182)](https://user-images.githubusercontent.com/86424600/208286473-aa7bbc0f-a608-49c7-8391-7f4df43d4303.png)
 
+![Screenshot (183)](https://user-images.githubusercontent.com/86424600/208286478-41e3d30a-5e07-4866-8362-21ecf91a783e.png)
