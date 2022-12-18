@@ -2,12 +2,15 @@
 Netflix is a streaming service that allows members to watch TV shows and movies without commercials on an internet-connected device. Here Netflix is cloned with its main functionalities like playing the movie trailers, suggesting trending, top-rated, action, comedy movies, etc.
 
 ## Concepts Used
-• React JS
-• Yarn
-• Firebase
+- React JS
+- Yarn
+- Firebase
 
 ### FUNCTIONALITIES FOR IMPLEMENTATION
-The trending movie APIs are taken from The Movie Database, a community-built movie and TV database.Firebase is a set of hosting services for any application used for creating and storingweb projects that act as the database but the data are stored in the cloud and certain users can be disabled from authentication.Yarn is a package manager that is used for focussing on speed, security, and consistency which is better than npm.Axios is a JavaScript library used to make HTTP requests from XML Http Requests from the browser and it supports the promise API.
+- The trending movie APIs are taken from The Movie Database, a community-built movie and TV database.
+- Firebase is a set of hosting services for any application used for creating and storing web projects that act as the database but the data are stored in the cloud     and certain users can be disabled from authentication.
+- Yarn is a package manager that is used for focussing on speed, security, and consistency which is better than npm.
+- Axios is a JavaScript library used to make HTTP requests from XML Http Requests from the browser and it supports the promise API.
  ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
