@@ -19,25 +19,33 @@ Netflix is a streaming service that allows members to watch TV shows and movies 
   web application.
 - Movie Trailers are played from the you-tube links by installing react-you-tube and
   react-movie trailers.
-  
-## DEPENDENCIES
-{
- "name": "netflix-clone-yt",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@reduxjs/toolkit": "^1.8.6",
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^14.4.3",
-    "axios": "^1.1.3",
-    "firebase": "^9.13.0",
-    "movie-trailer": "^2.1.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-redux": "^8.0.4",
-    "react-router-dom": "^6.4.3",
-    "react-scripts": "5.0.1",
-    "react-youtube": "^10.0.0",
-    "web-vitals": "^2.1.4" 
-}
+
+
+## ScreenShots
+
+![Screenshot (169)](https://user-images.githubusercontent.com/86424600/208286350-327dd3c2-291f-4898-8379-22e96cdb0c55.png)
+
+![Screenshot (170)](https://user-images.githubusercontent.com/86424600/208286352-2503b851-b69d-4d55-89d6-95f1ddb3b571.png)
+
+![Screenshot (171)](https://user-images.githubusercontent.com/86424600/208286360-cf2a2829-61a3-4729-81bd-f3aeb29ab9c2.png)
+
+![Screenshot (172)](https://user-images.githubusercontent.com/86424600/208286363-6a98bd21-aa50-4b26-830e-cdef7513e51c.png)
+
+![Screenshot (173)](https://user-images.githubusercontent.com/86424600/208286368-fc04f876-25b5-47f6-b10d-4771eac2432b.png)
+
+![Screenshot (174)](https://user-images.githubusercontent.com/86424600/208286369-eef3a619-74b2-4c08-b745-8ee802cc7e19.png)
+
+![Screenshot (175)](https://user-images.githubusercontent.com/86424600/208286373-2c75f20f-fe65-4ca2-9e06-3c50d107fdf4.png)
+
+![Screenshot (176)](https://user-images.githubusercontent.com/86424600/208286377-bde6126e-a5ac-4727-ba57-7a9cb4bffcf1.png)
+
+![Screenshot (177)](https://user-images.githubusercontent.com/86424600/208286381-be6ae3db-05ea-42ce-93de-5a7143765be8.png)
+
+![Screenshot (178)](https://user-images.githubusercontent.com/86424600/208286383-f6cd1189-9ce9-4afd-9754-5d3e1c303706.png)
+
+![Screenshot (179)](https://user-images.githubusercontent.com/86424600/208286388-4227ff47-378b-467b-b8a3-0c595d4f503b.png)
+
+![Screenshot (180)](https://user-images.githubusercontent.com/86424600/208286393-11025dc2-4238-45a2-89b8-e823b4f125c7.png)
+
+
+
